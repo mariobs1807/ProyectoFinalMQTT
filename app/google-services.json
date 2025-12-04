@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743865041164",
+    "project_id": "proyectofinalmqtt",
+    "storage_bucket": "proyectofinalmqtt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743865041164:android:5d8e05ea37390fef4b8929",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinalmqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpWenW71P2Lcp4BjxKi9JwbqfB6bIKIdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
