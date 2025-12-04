@@ -38,7 +38,7 @@ public class EditarPerfilActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_editar_perfil);
 
-        // INICIALIZAR FIREBASE
+        // INICIALIZAR FIREBASE IMPORTANTE
         mAuth = FirebaseAuth.getInstance();
         usersRef = FirebaseDatabase.getInstance().getReference("usuarios");
 
